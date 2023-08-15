@@ -1,6 +1,6 @@
 // Define to prevent recursive inclusion
 #ifndef CONFIG_H
-;#define CONFIG_H
+#define CONFIG_H
 
 #include "stm32f1xx_hal.h"
 
